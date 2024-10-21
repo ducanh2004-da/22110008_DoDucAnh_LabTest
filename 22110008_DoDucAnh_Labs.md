@@ -5,7 +5,7 @@ This lab is given a vulnerable C program and a shellcode source in asm and we mu
 - Compile asm program and C program to executable code. 
 - Conduct the attack so that when C program is executed, the /etc/passwd file is copied to /tmp/pwfile. You are free to choose Code Injection or Environment Variable approach to do. 
 - Write step-by-step explanation and clearly comment on instructions and screenshots that you have made to successfully accomplished the attack.
-**Answer 1**:
+<br>**Answer 1**:
 ## 1. Create a file named `bof.c`:
 *First, we write a C program that given and save it in a file:*<br>
 
