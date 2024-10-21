@@ -233,3 +233,5 @@ john --show hash.txt
 -Output screenshot:
 <img width="500" alt="Screenshot" src="./img/john_hash.png"><br>
 
+**Conclusion**: To do this lab, we need to install dvwa,sqlmap,john ripper with Linux then open http://localhost/ and login vulnerabilities: SQL injection to conduct lab and get the cookie to access database, table, user with ubutu on Linux and to cracked password we use john ripper to crack md5 password
+
